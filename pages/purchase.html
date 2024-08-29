@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drugs4Normals - Purchase</title>
+    <link rel="stylesheet" href="../styles/styles.css">
+</head>
+<body>
+    <a href="./cart.html" class="cart-link">Cart</a>
+   
+    <header><h1 class="title">Drugs4Normals</h1>
+        
+        <nav>
+            <ul class="menu">
+                <li class="menu-item"><a href="./music.html">MUSIC</a></li>
+                <li class="menu-item"><a href="./writing.html">WRITING</a></li>
+                <li class="menu-item"><a href="./hodgepodge.html">HODGEPODGE</a></li>
+            </ul>
+        </nav>
+    </header>
+
+   <!-- BILLING -->
+    <section id="billing-info" class="content">
+        <h2>Billing Information</h2>
+        <form id="billing-form">
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+          
+        </form>
+    </section>
+
+   <!-- SHIPPING  -->
+    <section id="shipping-info" class="content">
+        <h2>Shipping Information</h2>
+        <form id="shipping-form">
+            <label for="address">Address:</label>
+            <input type="text" id="address" name="address" required>
+            <label for="city">City:</label>
+            <input type="text" id="city" name="city" required>
+            
+        </form>
+    </section>
+
+  <!-- PAYMENT  -->
+    <section id="payment-info" class="content">
+        <h2>Payment Information</h2>
+        <form id="payment-form">
+            <label for="card-number">Card Number:</label>
+            <input type="text" id="card-number" name="card-number" required>
+          
+        </form>
+    </section>
+
+  <!-- CONFIRM ORDER  -->
+    <button id="confirm-order"><a href="./receipt.html">Confirm Order</a></button>
+
+    <script src="script.js"></script>
+</body>
+</html>
