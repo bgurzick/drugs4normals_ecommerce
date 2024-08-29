@@ -1,3 +1,6 @@
+Current Status - 07 July 2024
+- started this project before I learned REACT and component-based structure, so now I'm going to redo it to make it more dynamic, response, etc.
+
 General Idea: Drugs4Normals
 - The name: Music provides emotional resonance, release, and involuntary joy and movement. It acts on both sides of the brain and becomes embedded in neural pathways in such a way that even those with serious brain injury are often able to recall melodies from long ago.
 
@@ -10,9 +13,6 @@ General Idea: Drugs4Normals
     - adding music to preferred streaming services only once business targets have been reached
     - providing purchase coupons for preferred music players / streaming services
 
-
-Current Status - 07 July 2024
-- started this project before I learned REACT and component-based structure, so now I'm going to redo it to make it more dynamic, response, etc.
 
 Future Plans
 - most future plans have more to do with business and e-commerce design, rather than programming, but will update as progress is made.
