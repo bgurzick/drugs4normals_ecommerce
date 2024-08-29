@@ -8,7 +8,7 @@ General Idea: Drugs4Normals
 
 - More about the business: Any purchaser will have lifetime digital access to all current and future projects. After the initial purchase, they can choose to buy physical media, if so desired.
 
-- Additional consideration: Most music listeners use streaming services and listening to my music may be cumbersome. Some ways around this are:
+- Additional consideration: Most music listeners use streaming services - there's no way around that. But here's how I might try to make my own space: 
     - creating my own mobile application for listening, which enables me to upload new music seamlessly and would also allow me to add other local artists to create a small, local music community
     - adding music to preferred streaming services only once business targets have been reached
     - providing purchase coupons for preferred music players / streaming services
