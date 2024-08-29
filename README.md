@@ -15,4 +15,4 @@ General Idea: Drugs4Normals
 
 
 Future Plans
-- most future plans have more to do with business and e-commerce design, rather than programming, but will update as progress is made.
+- most future plans have more to do with business and e-commerce design, rather than programming, but I will continue to post updates as progress is made.
