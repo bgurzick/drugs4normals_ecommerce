@@ -1,5 +1,5 @@
 Current Status - 07 July 2024
-- started this project before I learned REACT and component-based structure, so now I'm going to redo it to make it more dynamic, responsive, etc.
+- started this project before I learned REACT and component-based structure, so now I'm going to redo it to make it more flexible, dynamic, responsive, etc.
 - still adjusting design styles
 
 General Idea: Drugs4Normals
